@@ -2,7 +2,7 @@
 #-*- coding: utf-8 -*-
 #github.com/MRX2010FF0 * facebook/https://www.facebook.com/hfjfj.fjfjf.71
 
-import requests, re , colorama
+import requests , colorama
 colorama.init()
 print("""
 \033[1;31m\033[1;37m ██████╗ █████╗ ███╗   ███╗      ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ ███████╗
